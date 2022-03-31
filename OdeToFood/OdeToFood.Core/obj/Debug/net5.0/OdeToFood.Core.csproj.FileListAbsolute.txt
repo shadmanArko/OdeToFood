@@ -1,0 +1,12 @@
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.deps.json
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.dll
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\ref\OdeToFood.Core.dll
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.pdb
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfo.cs
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.dll
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\ref\OdeToFood.Core.dll
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.pdb
+D:\_BrainStation\DotNet Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.AssemblyReference.cache
